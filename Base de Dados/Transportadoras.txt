@@ -1,0 +1,7 @@
+ID_Transportadora;Nome_Transportadora;Regiao_Atendida;Estados_Atendidos;Tipo
+TRP001;VelozLog;Sul;RS, SC, PR;Regional
+TRP002;NorteExpress;Norte;AM, PA, RO, AC, AP, RR, TO;Regional
+TRP003;CentroFrete;Centro-Oeste;GO, MT, MS, DF;Regional
+TRP004;SudesteCargo;Sudeste;SP, RJ, MG, ES;Regional
+TRP005;NordLog;Nordeste;BA, PE, CE, MA, PI, RN, PB, AL, SE;Regional
+TRP006;TransBrasil;Nacional;Todos os estados;Nacional
