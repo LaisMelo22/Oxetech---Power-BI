@@ -1,0 +1,265 @@
+﻿CodCliente,NomeCliente,Cidade,UF,Região,Porte
+4058,ABB,Brasilia,DF,Centro-Oeste,Pequeno
+4203,Abbott,Manaus,AM,Norte,Pequeno
+4202,Aché,Rio De Janeiro,RJ,Sudeste,Médio
+4184,Adecoagro,Manaus,AM,Norte,Pequeno
+4068,ADM,Campo Grande,MS,Centro-Oeste,Pequeno
+4121,AES Eletropaulo,Rio Grande do Sul,RS,Sul,Médio
+4180,AES Tiete Energia,Rio De Janeiro,RJ,Sudeste,Médio
+4036,Agrex do Brasil,Brasilia,DF,Centro-Oeste,Pequeno
+4051,Agrofel Grãos e Insumos,Campo Grande,MS,Centro-Oeste,Médio
+4090,Ajinomoto,Sao Paulo,SP,Sudeste,Pequeno
+4272,Algar Agro,Rio Grande do Sul,RS,Sul,Pequeno
+4038,Allied,Goiania,GO,Centro-Oeste,Médio
+4176,Alto Alegre,Rio Grande do Sul,RS,Sul,Pequeno
+4012,Amaggi Commodities,Sao Jose Dos Pinhais,PR,Sul,Pequeno
+4065,Ambev,Brasilia,DF,Centro-Oeste,Pequeno
+4210,Andrade Gutierrez,Belo Horizonte,MG,Sudeste,Pequeno
+4217,Arauco,Rio Grande do Sul,RS,Sul,Pequeno
+4052,Arcom,Goiania,GO,Centro-Oeste,Pequeno
+4092,Arosuco,Rio Grande do Sul,RS,Sul,Médio
+4041,Atem’s Distribuidora,Goiania,GO,Centro-Oeste,Pequeno
+4059,Atlas Schindler,Campo Grande,MS,Centro-Oeste,Pequeno
+4071,Aurora Alimentos,Rio De Janeiro,RJ,Sudeste,Pequeno
+4238,AutoBan,Recife,PE,Nordeste,Grande
+4107,Avibras,Manaus,AM,Norte,Grande
+4079,Avon,Aracatuba,SP,Sudeste,Pequeno
+4192,Bahiagás,Belo Horizonte,MG,Sudeste,Pequeno
+4266,Belagrícola,Sao Paulo,SP,Sudeste,Pequeno
+4251,Berneck,Recife,PE,Nordeste,Pequeno
+4123,BG Brasil,Rio De Janeiro,RJ,Sudeste,Pequeno
+4082,Bianchini,Bauru,SP,Sudeste,Médio
+4146,Biosev,Belo Horizonte,MG,Sudeste,Pequeno
+4157,Biosev Bioenergia,Belo Horizonte,MG,Sudeste,Pequeno
+4145,BMTE,Rio Grande do Sul,RS,Sul,Grande
+4025,Boticário,Novo Hamburgo,RS,Sul,Médio
+4083,Brasil Kirin,Sao Jose Do Rio Preto,SP,Sudeste,Médio
+4053,Brasilgás,Campo Grande,MS,Centro-Oeste,Grande
+4177,Brenco,Belo Horizonte,MG,Sudeste,Pequeno
+4062,BRF,Taguatinga,DF,Centro-Oeste,Pequeno
+4063,Bunge,Curitiba,PR,Sul,Pequeno
+4256,C. Vale,Recife,PE,Nordeste,Pequeno
+4225,CA Technologies,Sao Paulo,SP,Sudeste,Médio
+4241,Caesb,Recife,PE,Nordeste,Pequeno
+4213,Camargo Corrêa,Sao Paulo,SP,Sudeste,Pequeno
+4080,Camil,Aracatuba,SP,Sudeste,Médio
+4260,Caramuru Alimentos,Rio De Janeiro,RJ,Sudeste,Médio
+4061,Cargill,Goiania,GO,Centro-Oeste,Pequeno
+4103,Casa da Moeda,Rio Grande do Sul,RS,Sul,Médio
+4268,Castrolanda,Recife,PE,Nordeste,Médio
+4244,CCR NovaDutra,Santos,SP,Sudeste,Médio
+4054,CDPC-Centro Distrib. Prod. Cobre,Varzea Grande,MT,Centro-Oeste,Médio
+4167,CEB Distribuição,Santos,SP,Sudeste,Médio
+4231,Cedae,Rio De Janeiro,RJ,Sudeste,Pequeno
+4160,CEEE,Belo Horizonte,MG,Sudeste,Pequeno
+4171,CEEE-GT,Manaus,AM,Norte,Pequeno
+4150,CEG,Belo Horizonte,MG,Sudeste,Médio
+4173,CEG Rio,Belo Horizonte,MG,Sudeste,Pequeno
+4132,Celesc,Santos,SP,Sudeste,Pequeno
+4139,Celg D,Belo Horizonte,MG,Sudeste,Grande
+4136,Celpa,Belo Horizonte,MG,Sudeste,Médio
+4135,Celpe,Recife,PE,Nordeste,Pequeno
+4153,Cemar,Rio De Janeiro,RJ,Sudeste,Pequeno
+4122,Cemig Distribuição,Manaus,AM,Norte,Médio
+4131,Cemig GT,Recife,PE,Nordeste,Pequeno
+4249,Cenibra,Recife,PE,Nordeste,Pequeno
+4178,Cesp,Rio De Janeiro,RJ,Sudeste,Médio
+4046,CGG Trading,Belo Horizonte,MG,Sudeste,Médio
+4119,Chesf,Recife,PE,Nordeste,Grande
+4037,Cisa,Brasilia,DF,Centro-Oeste,Pequeno
+4221,Cisco,Recife,PE,Nordeste,Grande
+4106,Cisper,Rio De Janeiro,RJ,Sudeste,Pequeno
+4265,Citrosuco,Rio De Janeiro,RJ,Sudeste,Grande
+4194,Clealco,Manaus,AM,Norte,Pequeno
+4254,Coamo,Sao Paulo,SP,Sudeste,Pequeno
+4262,Cocamar,Sao Paulo,SP,Sudeste,Pequeno
+4129,Coelba,Belo Horizonte,MG,Sudeste,Pequeno
+4015,Cofco Agri,Londrina,PR,Sul,Médio
+4190,Comerc Energia,Belo Horizonte,MG,Sudeste,Médio
+4043,Comexport Trading,Sinop,MT,Centro-Oeste,Pequeno
+4133,Comgás,Belo Horizonte,MG,Sudeste,Médio
+4261,Comigo,Rio De Janeiro,RJ,Sudeste,Pequeno
+4239,Comlurb,Santos,SP,Sudeste,Grande
+4242,Compesa,Recife,PE,Nordeste,Grande
+4105,Conab,Rio De Janeiro,RJ,Sudeste,Médio
+4212,Construtora OAS,Rio Grande do Sul,RS,Sul,Médio
+4207,Construtora Odebrecht,Santos,SP,Sudeste,Pequeno
+4274,Coopavel,Santos,SP,Sudeste,Pequeno
+4270,Cooperalfa,Belo Horizonte,MG,Sudeste,Pequeno
+4269,Cooperativa Agrária,Sao Paulo,SP,Sudeste,Pequeno
+4032,Coopercitrus,Goiania,GO,Centro-Oeste,Pequeno
+4021,Cooxupé,Itajai,SC,Sul,Pequeno
+4263,Copacol,Belo Horizonte,MG,Sudeste,Médio
+4232,Copasa MG,Sao Paulo,SP,Sudeste,Pequeno
+4126,Copel Distribuição,Belo Horizonte,MG,Sudeste,Pequeno
+4141,Copel GET,Rio De Janeiro,RJ,Sudeste,Pequeno
+4049,Copercampos,Taguatinga,DF,Centro-Oeste,Pequeno
+4056,Copercana,Goiania,GO,Centro-Oeste,Médio
+4013,Copersucar,Blumenau,SC,Sul,Pequeno
+4253,Copersucar-Cooperativa,Recife,PE,Nordeste,Grande
+4236,Corsan,Manaus,AM,Norte,Pequeno
+4174,Cosern,Manaus,AM,Norte,Grande
+4055,Cotrisal,Brasilia,DF,Centro-Oeste,Pequeno
+4166,CPFL Brasil,Manaus,AM,Norte,Pequeno
+4128,CPFL Paulista,Recife,PE,Nordeste,Pequeno
+4149,CPFL Piratininga,Santos,SP,Sudeste,Pequeno
+4067,CRBS,Brasilia,DF,Centro-Oeste,Médio
+4127,CTEEP,Rio De Janeiro,RJ,Sudeste,Grande
+4229,Digibras,Rio Grande do Sul,RS,Sul,Grande
+4206,Duratex,Santos,SP,Sudeste,Médio
+4175,EDF Norte Fluminense,Belo Horizonte,MG,Sudeste,Grande
+4172,EDP Comercializadora,Santos,SP,Sudeste,Pequeno
+4159,EDP Espírito Santo,Manaus,AM,Norte,Pequeno
+4148,EDP São Paulo,Sao Paulo,SP,Sudeste,Pequeno
+4248,Eldorado Brasil,Recife,PE,Nordeste,Pequeno
+4112,Electrolux,Belo Horizonte,MG,Sudeste,Pequeno
+4134,Elektro Redes,Rio Grande do Sul,RS,Sul,Pequeno
+4142,Eletrobras,Manaus,AM,Norte,Médio
+4161,Eletrobras Amazonas,Recife,PE,Nordeste,Pequeno
+4193,Eletrobras Distribuição Alagoas,Sao Paulo,SP,Sudeste,Pequeno
+4188,Eletrobras Distribuição Piauí,Belo Horizonte,MG,Sudeste,Médio
+4182,Eletrobras Rondônia,Sao Paulo,SP,Sudeste,Grande
+4125,Eletronorte,Sao Paulo,SP,Sudeste,Médio
+4162,Eletronuclear,Recife,PE,Nordeste,Médio
+4151,Eletrosul,Manaus,AM,Norte,Grande
+4235,Embasa,Belo Horizonte,MG,Sudeste,Pequeno
+4102,Embrapa,Manaus,AM,Norte,Pequeno
+4200,EMS Sigma Pharma,Manaus,AM,Norte,Pequeno
+4140,Enel Distribuição,Recife,PE,Nordeste,Pequeno
+4137,Distribuição SSP,Sao Paulo,SP,Sudeste,Médio
+4163,Energia Sustentável do Brasil,Manaus,AM,Norte,Grande
+4168,Energisa M. Grosso do Sul,Santos,SP,Sudeste,Pequeno
+4143,Energisa Mato Grosso,Manaus,AM,Norte,Médio
+4179,Energisa Paraíba,Sao Paulo,SP,Sudeste,Pequeno
+4138,Engie Brasil Energia,Manaus,AM,Norte,Pequeno
+4114,Ericsson,Rio De Janeiro,RJ,Sudeste,Grande
+4201,Eurofarma,Sao Paulo,SP,Sudeste,Pequeno
+4030,Fiagril,Belo Horizonte,MG,Sudeste,Grande
+4247,Fibria,Recife,PE,Nordeste,Pequeno
+4250,Fibria-MS,Rio De Janeiro,RJ,Sudeste,Pequeno
+4022,Fic Petróleo,Maringa,PR,Sul,Pequeno
+4100,Frangos Canção,Santos,SP,Sudeste,Pequeno
+4101,Frigol,Santos,SP,Sudeste,Pequeno
+4273,Frimesa,Sao Paulo,SP,Sudeste,Pequeno
+4271,Frisia,Rio De Janeiro,RJ,Sudeste,Pequeno
+4118,Furnas,Santos,SP,Sudeste,Pequeno
+4098,Garoto,Recife,PE,Nordeste,Pequeno
+4027,Gavilon do Brasil,Novo Hamburgo,RS,Sul,Grande
+4111,GE,Sao Paulo,SP,Sudeste,Médio
+4024,Glencore,Porto Alegre,RS,Sul,Pequeno
+4220,Google,Belo Horizonte,MG,Sudeste,Médio
+4264,Granol,Santos,SP,Sudeste,Médio
+4240,GRU Airport,Rio De Janeiro,RJ,Sudeste,Pequeno
+4019,Grupo Martins,Florianopolis,SC,Sul,Pequeno
+4089,Heineken,Sao Paulo,SP,Sudeste,Médio
+4218,HP,Santos,SP,Sudeste,Pequeno
+4117,Huawei,Sao Paulo,SP,Sudeste,Pequeno
+4195,Hypermarcas,Manaus,AM,Norte,Médio
+4219,IBM,Belo Horizonte,MG,Sudeste,Pequeno
+4234,Infraero,Santos,SP,Sudeste,Pequeno
+4267,Integrada,Belo Horizonte,MG,Sudeste,Pequeno
+4047,Interagrícola,Belo Horizonte,MG,Sudeste,Pequeno
+4211,InterCement,Santos,SP,Sudeste,Pequeno
+4120,Itaipu Binacional,Santos,SP,Sudeste,Pequeno
+4085,Itambé Alimentos,Sao Jose Do Rio Preto,SP,Sudeste,Pequeno
+4096,J. Macêdo,Rio De Janeiro,RJ,Sudeste,Pequeno
+4064,JBS,Presidente Prudente,SP,Sudeste,Médio
+4066,JBS Foods,Brasilia,DF,Centro-Oeste,Médio
+4099,JDE,Rio Grande do Sul,RS,Sul,Pequeno
+4088,Johnson & Johnson,Atibaia,SP,Sudeste,Grande
+4077,Kimberly-Clark,Bauru,SP,Sudeste,Médio
+4246,Klabin,Santos,SP,Sudeste,Pequeno
+4091,L’Oréal Brasil,Sao Paulo,SP,Sudeste,Pequeno
+4204,Laboratório Cristália,Rio Grande do Sul,RS,Sul,Pequeno
+4259,Lar,Recife,PE,Nordeste,Pequeno
+4045,Larco Distrib. de Combustível,Belo Horizonte,MG,Sudeste,Pequeno
+4086,Laticínios Bela Vista,Aracatuba,SP,Sudeste,Grande
+4275,LDC Sucos,Rio De Janeiro,RJ,Sudeste,Pequeno
+4110,LG-SP,Recife,PE,Nordeste,Pequeno
+4124,Light Sesa,Manaus,AM,Norte,Pequeno
+4023,Liquigás,Sao Jose,SC,Sul,Médio
+4252,Louis Dreyfus,Sao Paulo,SP,Sudeste,Pequeno
+4075,M. Dias Branco,Presidente Prudente,SP,Sudeste,Médio
+4214,Magnesita,Santos,SP,Sudeste,Pequeno
+4014,Makro,Ipatinga,MG,Sudeste,Grande
+4258,Marfrig,Manaus,AM,Norte,Pequeno
+4115,Microsoft Mobile,Rio De Janeiro,RJ,Sudeste,Pequeno
+4257,Minerva Foods,Rio Grande do Sul,RS,Sul,Pequeno
+4078,Mondeléz Brasil,Aracatuba,SP,Sudeste,Pequeno
+4048,Moove,Brasilia,DF,Centro-Oeste,Pequeno
+4209,MRV,Belo Horizonte,MG,Sudeste,Pequeno
+4031,Multigrain,Curitiba,PR,Sul,Pequeno
+4104,Multiplus,Belo Horizonte,MG,Sudeste,Pequeno
+4073,Natura,Sao Jose Do Rio Preto,SP,Sudeste,Médio
+4076,Nestlé,Sao Jose Do Rio Preto,SP,Sudeste,Pequeno
+4255,Nidera Sementes,Belo Horizonte,MG,Sudeste,Pequeno
+4084,Norsa,Aracatuba,SP,Sudeste,Pequeno
+4198,Novartis,Manaus,AM,Norte,Pequeno
+4223,Oracle,Sao Paulo,SP,Sudeste,Pequeno
+4094,P&G,Manaus,AM,Norte,Médio
+4074,P&G Industrial,Bauru,SP,Sudeste,Médio
+4116,Panasonic,Rio De Janeiro,RJ,Sudeste,Pequeno
+4081,Pepsico,Sao Jose Do Rio Preto,SP,Sudeste,Pequeno
+4050,Petrobahia,Campo Grande,MS,Centro-Oeste,Pequeno
+4156,Petrogal Brasil,Rio Grande do Sul,RS,Sul,Médio
+4016,Petróleo Sabbá,Pocos De Caldas,MG,Sudeste,Pequeno
+4196,Pfizer,Manaus,AM,Norte,Médio
+4097,Pif Paf,Rio Grande do Sul,RS,Sul,Médio
+4227,Positivo Informática,Rio De Janeiro,RJ,Sudeste,Pequeno
+4034,Potencial Petróleo,Goiania,GO,Centro-Oeste,Pequeno
+4020,Profarma,Londrina,PR,Sul,Pequeno
+4208,Queiroz Galvão,Sao Paulo,SP,Sudeste,Pequeno
+4130,Raízen Energia,Rio Grande do Sul,RS,Sul,Médio
+4028,Raízen Mime,Sao Jose Dos Pinhais,PR,Sul,Pequeno
+4152,Repsol Sinopec,Recife,PE,Nordeste,Pequeno
+4154,RGE,Recife,PE,Nordeste,Médio
+4155,RGE Sul,Sao Paulo,SP,Sudeste,Pequeno
+4147,Rio Paraná Energia,Belo Horizonte,MG,Sudeste,Pequeno
+4189,Rio Paranapanema Energia,Rio Grande do Sul,RS,Sul,Médio
+4197,Roche,Sao Paulo,SP,Sudeste,Médio
+4033,Rodoil,Goiania,GO,Centro-Oeste,Pequeno
+4044,Ruff,Belo Horizonte,MG,Sudeste,Pequeno
+4230,Sabesp,Belo Horizonte,MG,Sudeste,Médio
+4108,Samsung,Rio De Janeiro,RJ,Sudeste,Médio
+4237,Saneago,Santos,SP,Sudeste,Pequeno
+4233,Sanepar,Belo Horizonte,MG,Sudeste,Pequeno
+4199,Sanofi-Aventis,Santos,SP,Sudeste,Pequeno
+4158,Santo Antônio Energia,Manaus,AM,Norte,Pequeno
+4165,São Martinho,Recife,PE,Nordeste,Pequeno
+4228,SAP,Rio Grande do Sul,RS,Sul,Pequeno
+4026,Seara Agro-Pecuários,Belo Horizonte,MG,Sudeste,Pequeno
+4222,Serpro,Manaus,AM,Norte,Pequeno
+4039,Servimed,Varzea Grande,MT,Centro-Oeste,Pequeno
+4170,Shell Brasil,Belo Horizonte,MG,Sudeste,Pequeno
+4113,Siemens,Rio De Janeiro,RJ,Sudeste,Pequeno
+4243,Sistema Produtor São Lourenço,Recife,PE,Nordeste,Grande
+4029,Sotreq,Joinville,SC,Sul,Pequeno
+4072,Souza Cruz,Sao Jose Do Rio Preto,SP,Sudeste,Médio
+4070,Spal,Rio De Janeiro,RJ,Sudeste,Pequeno
+4186,Statoil,Sao Paulo,SP,Sudeste,Pequeno
+4245,Suzano,Santos,SP,Sudeste,Médio
+4191,Taesa,Manaus,AM,Norte,Pequeno
+4040,Tambasa,Brasilia,DF,Centro-Oeste,Médio
+4042,Taurus,Campo Grande,MS,Centro-Oeste,Médio
+4224,TecBan,Santos,SP,Sudeste,Médio
+4060,ThyssenKrupp,Sinop,MT,Centro-Oeste,Médio
+4215,Tigre,Recife,PE,Nordeste,Pequeno
+4017,Total Combustíveis,Itajai,SC,Sul,Pequeno
+4226,Totvs,Belo Horizonte,MG,Sudeste,Pequeno
+4095,Três Corações,Rio De Janeiro,RJ,Sudeste,Pequeno
+4018,Ultragaz,Sao Jose,SC,Sul,Pequeno
+4069,Unilever Brasil,Brasilia,DF,Centro-Oeste,Pequeno
+4183,Usaçúcar,Belo Horizonte,MG,Sudeste,Grande
+4181,Usina Colombo,Rio De Janeiro,RJ,Sudeste,Pequeno
+4164,Usina Coruripe,Rio Grande do Sul,RS,Sul,Médio
+4187,Usina da Pedra,Belo Horizonte,MG,Sudeste,Médio
+4185,Usina Delta,Manaus,AM,Norte,Pequeno
+4169,Usina Guarani,Manaus,AM,Norte,Pequeno
+4087,Vigor,Aracatuba,SP,Sudeste,Pequeno
+4093,Vonpar Refrescos,Recife,PE,Nordeste,Médio
+4144,Votener,Santos,SP,Sudeste,Médio
+4205,Votorantim Cimentos,Belo Horizonte,MG,Sudeste,Pequeno
+4216,Votorantim Cimentos N/NE,Santos,SP,Sudeste,Pequeno
+4057,WEG Equipamentos,Taguatinga,DF,Centro-Oeste,Grande
+4109,Whirlpool,Recife,PE,Nordeste,Grande
+4035,Zema Petróleo,Brasilia,DF,Centro-Oeste,Pequeno
